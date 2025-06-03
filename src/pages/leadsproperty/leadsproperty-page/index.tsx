@@ -1,0 +1,1 @@
+export * from './leadsproperty-page.leadsproperty'

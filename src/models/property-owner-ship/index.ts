@@ -1,0 +1,1 @@
+export * from './property-owner-ship.type'

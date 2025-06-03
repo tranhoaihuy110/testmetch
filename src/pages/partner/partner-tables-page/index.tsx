@@ -1,0 +1,1 @@
+export * from './partner-tables-page.partner'

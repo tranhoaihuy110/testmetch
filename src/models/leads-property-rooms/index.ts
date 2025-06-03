@@ -1,0 +1,1 @@
+export * from './leads-property-rooms.type'
